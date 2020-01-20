@@ -114,7 +114,7 @@ IT産業の発達で人工知能、物のインターネット(IoT)、ビック�
 プログラミング言語は初心者に対して、進入壁が高い物とある共にプログラミングが難しいという固定観念で試そうともしないケースが多かった事を考え、動画のインストラクションでは初めてプログラミング言語を接する人の抵抗感を無くす事が重要なポイントとして求められると考えられる。
 
 
-## 参考文献
+## [参考文献](https://docs.google.com/spreadsheets/d/1IOyYNbWvBEvCyS-VaqHdqvl-YIOGOrWV/edit#gid=1952072593)
 
 - [コーディング教育義務化](https://m.blog.naver.com/PostView.nhn?blogId=imagine0716&logNo=221125477233&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
