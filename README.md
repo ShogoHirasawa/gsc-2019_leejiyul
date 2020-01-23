@@ -139,3 +139,6 @@ https://docs.google.com/document/d/1Y1s72Q2UIBwj74TcCRjTy4qMQi9TtxayyIj8vVn28tg/
 
 ## 発表用プレゼンテーション
 https://drive.google.com/open?id=1hlzIOstnUO-4uddujwrvdqbQN9GTwofi
+
+## テンプレートダウンロード　Github
+https://github.com/LEEJIYUL/Templateonegaishimasu
