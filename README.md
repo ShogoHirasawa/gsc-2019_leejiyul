@@ -141,4 +141,4 @@ https://docs.google.com/document/d/1Y1s72Q2UIBwj74TcCRjTy4qMQi9TtxayyIj8vVn28tg/
 https://drive.google.com/open?id=1hlzIOstnUO-4uddujwrvdqbQN9GTwofi
 
 ## テンプレートダウンロード　Github
-https://github.com/LEEJIYUL/Templateonegaishimasu
+https://github.com/LEEJIYUL/Fuhashilab-Template-last.ver
